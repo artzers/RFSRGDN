@@ -6,4 +6,4 @@ Modify the main.py. Change the path of the training samples, and calculate the m
 Modify the BrainTest.py. Change the path, the size of the input images, and the save path. Then run BrainTest.py.
 
 ### Train confocal and STED images including nuclei stained with SiR-DNA
-Uncompress AttUnetSuperPerceptGai-Nuclear.zip.
+Uncompress AttUnetSuperPerceptGai-ConfSTED.zip and train your datasets.
